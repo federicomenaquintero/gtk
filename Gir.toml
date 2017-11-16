@@ -117,6 +117,7 @@ generate = [
     "Gtk.Misc",
     "Gtk.ModelButton",
     "Gtk.MovementStep",
+    "Gtk.NativeDialog",
     "Gtk.NotebookTab",
     "Gtk.NumberUpLayout",
     "Gtk.Orientable",
